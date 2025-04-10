@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget { //widget sem estado
 
 class TelaTarefas extends StatelessWidget { // Classe da tela de tarefas (sem estado)
   final List<String> pendingTasks = [ //Tarefas pendentes
-    "Limpar casa"
+    "Limpar casa",
     "Lavar quintal",
     "Ir ao mercado",
     "Fazer um bolo",
